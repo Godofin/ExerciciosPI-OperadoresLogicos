@@ -1,0 +1,15 @@
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\AtividadeNotas\bin\Debug\net6.0\AtividadeNotas.exe
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\AtividadeNotas\bin\Debug\net6.0\AtividadeNotas.deps.json
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\AtividadeNotas\bin\Debug\net6.0\AtividadeNotas.runtimeconfig.json
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\AtividadeNotas\bin\Debug\net6.0\AtividadeNotas.dll
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\AtividadeNotas\bin\Debug\net6.0\AtividadeNotas.pdb
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\AtividadeNotas\obj\Debug\net6.0\AtividadeNotas.csproj.AssemblyReference.cache
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\AtividadeNotas\obj\Debug\net6.0\AtividadeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\AtividadeNotas\obj\Debug\net6.0\AtividadeNotas.AssemblyInfoInputs.cache
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\AtividadeNotas\obj\Debug\net6.0\AtividadeNotas.AssemblyInfo.cs
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\AtividadeNotas\obj\Debug\net6.0\AtividadeNotas.csproj.CoreCompileInputs.cache
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\AtividadeNotas\obj\Debug\net6.0\AtividadeNotas.dll
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\AtividadeNotas\obj\Debug\net6.0\refint\AtividadeNotas.dll
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\AtividadeNotas\obj\Debug\net6.0\AtividadeNotas.pdb
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\AtividadeNotas\obj\Debug\net6.0\AtividadeNotas.genruntimeconfig.cache
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\AtividadeNotas\obj\Debug\net6.0\ref\AtividadeNotas.dll

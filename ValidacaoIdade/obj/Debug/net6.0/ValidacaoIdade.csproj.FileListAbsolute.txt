@@ -1,0 +1,15 @@
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\ValidacaoIdade\bin\Debug\net6.0\ValidacaoIdade.exe
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\ValidacaoIdade\bin\Debug\net6.0\ValidacaoIdade.deps.json
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\ValidacaoIdade\bin\Debug\net6.0\ValidacaoIdade.runtimeconfig.json
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\ValidacaoIdade\bin\Debug\net6.0\ValidacaoIdade.dll
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\ValidacaoIdade\bin\Debug\net6.0\ValidacaoIdade.pdb
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\ValidacaoIdade\obj\Debug\net6.0\ValidacaoIdade.csproj.AssemblyReference.cache
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\ValidacaoIdade\obj\Debug\net6.0\ValidacaoIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\ValidacaoIdade\obj\Debug\net6.0\ValidacaoIdade.AssemblyInfoInputs.cache
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\ValidacaoIdade\obj\Debug\net6.0\ValidacaoIdade.AssemblyInfo.cs
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\ValidacaoIdade\obj\Debug\net6.0\ValidacaoIdade.csproj.CoreCompileInputs.cache
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\ValidacaoIdade\obj\Debug\net6.0\ValidacaoIdade.dll
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\ValidacaoIdade\obj\Debug\net6.0\refint\ValidacaoIdade.dll
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\ValidacaoIdade\obj\Debug\net6.0\ValidacaoIdade.pdb
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\ValidacaoIdade\obj\Debug\net6.0\ValidacaoIdade.genruntimeconfig.cache
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\ValidacaoIdade\obj\Debug\net6.0\ref\ValidacaoIdade.dll
